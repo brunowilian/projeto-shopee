@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "imagem": "public/teste.jpg",
+        "name": "Isolate Protein Mix",
+        "valor": 23,
+        "link": ""
+    },
+    {
+        "id": 1,
+        "imagem": "public/teste.jpg",
+        "name": "Carro",
+        "valor": 22,
+        "link": ""
+    },
+    {
+        "id": 2,
+        "imagem": "public/teste.jpg",
+        "name": "Isolate Protein Mix",
+        "valor": 23,
+        "link": ""
+    },
+    {
+        "id": 3,
+        "imagem": "public/teste.jpg",
+        "name": "Isolate Protein Mix",
+        "valor": 23,
+        "link": ""
+    },
+    {
+        "id": 4,
+        "imagem": "public/teste.jpg",
+        "name": "Isolate Protein Mix",
+        "valor": 23,
+        "link": ""
+    },
+    {
+        "id": 5,
+        "imagem": "public/teste.jpg",
+        "name": "Isolate Protein Mix",
+        "valor": 23,
+        "link": ""
+    },
+    {
+        "id": 6,
+        "imagem": "public/teste.jpg",
+        "name": "Isolate Protein Mix",
+        "valor": 23,
+        "link": ""
+    },
+     {
+        "id": 7,
+        "imagem": "public/teste.jpg",
+        "name": "Isolate Protein Mix",
+        "valor": 23,
+        "link": ""
+    },
+    {
+        "id": 8,
+        "imagem": "public/teste.jpg",
+        "name": "Isolate Protein Mix",
+        "valor": 23,
+        "link": ""
+    },
+     {
+        "id": 9,
+        "imagem": "public/teste.jpg",
+        "name": "Isolate Protein Mix",
+        "valor": 23,
+        "link": ""
+    },
+    {
+        "id": 10,
+        "imagem": "public/teste.jpg",
+        "name": "Isolate Protein Mix",
+        "valor": 23,
+        "link": ""
+    }
+]
