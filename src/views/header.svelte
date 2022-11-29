@@ -12,7 +12,7 @@
         display: flex;
         justify-content: center;
         border: solid 2px #ee4d2d;
-       
+        
     }
     img {
         margin-top: 5px;

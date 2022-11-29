@@ -66,12 +66,16 @@
         width: 95%;
     }
     button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
         font-family: 'Rboto', sans-serif;
         font-size: 1.1rem;
         background: #ee4d2d;
         color: #000;
         margin: 10px;
-        width: 10rem;
+        height: 2rem;
+        width: 8rem;
     }
 
 
