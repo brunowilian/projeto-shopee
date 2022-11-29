@@ -9,6 +9,7 @@
             <div class="produto">
                 <h4>Nº: {user.id}</h4>
                 <div class="imagem-div">
+                    <img class="loja" src={user.loja} alt="" />
                     <img class="imagem" src={user.imagem} alt="" />
                 </div>
                 <div class="itens-name-valor">
@@ -57,15 +58,21 @@
     }
 
     .imagem-div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         border: solid 2px #000;
         margin: 5px;
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 170px;
     }
     .imagem {
-        margin-top: 5px;
         height: 95%;
         width: 95%;
+    }
+    .loja{
+        margin-top: 3px;
+        height: 11%;
     }
     button {
         display: flex;

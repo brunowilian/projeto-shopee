@@ -1,9 +1,18 @@
 [
     {
+        "id": 2,
+        "imagem": "https://i.postimg.cc/vH4n7xsw/item01.jpg",
+        "name": "Chuveirinho Bico Arejador",
+        "valor": "4,00",
+        "loja": "https://i.postimg.cc/yYqhd9dx/netshoes-logo.png",
+        "link": "https://shope.ee/7pJbFP7aPo"
+    },
+    {
         "id": 1,
         "imagem": "https://i.postimg.cc/vH4n7xsw/item01.jpg",
         "name": "Chuveirinho Bico Arejador",
         "valor": "4,00",
+        "loja": "https://i.postimg.cc/8C2tDWQR/shopee-logo.png",
         "link": "https://shope.ee/7pJbFP7aPo"
     }
 ]
