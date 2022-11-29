@@ -7,7 +7,7 @@
     <div class="container-produtos">
         {#each users as user (user.id)}
             <div class="produto">
-                <h4>Código: {user.id}</h4>
+                <h4>Nº: {user.id}</h4>
                 <div class="imagem-div">
                     <img class="imagem" src={user.imagem} alt="" />
                 </div>
@@ -15,7 +15,9 @@
                     <h2>{user.name}</h2>
                     <h2>Valor R$: {user.valor}</h2>
                 </div>
-                <button> Comprar </button>
+                <a href={user.link} target="_blank" rel="noreferrer noopener"> 
+                    <button > Comprar  </button>
+                </a>
             </div>
         {/each}
     </div>
