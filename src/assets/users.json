@@ -48,7 +48,7 @@
         "valor": 23,
         "link": ""
     },
-     {
+    {
         "id": 4,
         "imagem": "public/teste.jpg",
         "name": "Isolate Protein Mix",
@@ -62,7 +62,7 @@
         "valor": 23,
         "link": ""
     },
-     {
+    {
         "id": 2,
         "imagem": "public/teste.jpg",
         "name": "Isolate Protein Mix",
